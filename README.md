@@ -1,4 +1,3 @@
-<img class=" wp-image-6391 aligncenter" src="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/virusbots-logo.png" alt="" width="171" height="165" />
 <p style="text-align:center;"><img src="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2021/10/virusbots-logo.png" alt="" width="171" height="165" ></p>
 <p style="text-align: justify;">Το έργο μας αποτελείται από διάφορες τεχνολογίες οι οποίες όλες μαζί αποτελούν ένα σύστημα καταγραφής βεβαρημένης ατμόσφαιρας, που μπορεί να συμβάλλει στην παρακολούθηση του ιικού φορτίου στις σχολικές αίθουσες. Συγκεκριμένα οι επιμέρους λειτουργίες του είναι:</p>
 
